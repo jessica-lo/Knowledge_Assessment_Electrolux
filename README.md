@@ -1,2 +1,2 @@
 # Knowledge_Assessment_Electrolux
-This is the public repository of knowledge assesment for electrolux hiring process
+This public repository contains my responses to the Knowledge Assessment conducted as part of the Electrolux hiring process.
